@@ -1,4 +1,4 @@
-# pku_elective
-copied from zhy, modified by xs
+# pku选课助手NEXT GENERATION
 
-chrome浏览器插件 魔改后可以达到3秒刷新一次的效果
+名称暂定如上
+
